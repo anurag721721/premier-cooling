@@ -172,3 +172,7 @@
 .accordion-body {
   flex-grow: 1;
 }
+.custom-border-color {
+  border-color: #034280 !important;
+  border-width: 15px;
+}
